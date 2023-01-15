@@ -1197,7 +1197,7 @@ label:after {
   }
   .cards-item__img {
     height: 280px;
-    top: 96px;
+    top: 102px;
   }
   .cards-item__text {
     width: 280px;
@@ -1227,7 +1227,7 @@ label:after {
     left: 0%;
   }
   .buttons__main-btn {
-    margin: 0;
+    margin: 3px;
   }
   .footer__title {
     font-size: 30px;
